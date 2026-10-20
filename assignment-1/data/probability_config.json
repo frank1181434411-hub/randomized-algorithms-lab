@@ -1,0 +1,14 @@
+{
+  "case_id": "probability_n16_s314159_random_single",
+  "rounds": [
+    1,
+    2,
+    4,
+    8,
+    10
+  ],
+  "trials": 10000,
+  "master_seed": 271828,
+  "vector_distribution": "independent uniform bits {0,1}",
+  "exact_probability": "2**(-k)"
+}

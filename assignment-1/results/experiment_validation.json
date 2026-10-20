@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "timing_measurements": 440,
+  "probability_trials": 50000,
+  "figures": [
+    "adjacent_ratio.png",
+    "k_time.png",
+    "n_time.png",
+    "normalized_kn2.png",
+    "normalized_n2.png",
+    "normalized_n3.png",
+    "probability.png",
+    "speedup.png"
+  ],
+  "checks": [
+    "unique probability seeds match master seed sequence",
+    "raw probability counts match summary",
+    "all performance products accepted",
+    "all eight PNG files generated"
+  ],
+  "solver_sha256": "d9e58f19fd5c92418cd09e26f8ebc081fe8462f10c28d411dd54cc4c02287639"
+}

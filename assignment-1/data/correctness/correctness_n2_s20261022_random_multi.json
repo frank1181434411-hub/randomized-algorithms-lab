@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "case_id": "correctness_n2_s20261022_random_multi",
+  "seed": 20261022,
+  "n": 2,
+  "group": "correctness",
+  "data_type": "random",
+  "element_range": [
+    0,
+    9
+  ],
+  "candidate_abs_bound": 164,
+  "truth": false,
+  "modifications": [
+    {
+      "row": 0,
+      "col": 0,
+      "delta": 1
+    },
+    {
+      "row": 1,
+      "col": 1,
+      "delta": 2
+    }
+  ],
+  "input_file": "correctness_n2_s20261022_random_multi.txt",
+  "sha256": "597df3fb6d1680c0d726b2472965ccac86ee3633b778994322304832e5a77904"
+}

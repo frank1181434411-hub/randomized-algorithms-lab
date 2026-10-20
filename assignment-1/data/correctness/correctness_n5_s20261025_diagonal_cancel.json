@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "case_id": "correctness_n5_s20261025_diagonal_cancel",
+  "seed": 20261025,
+  "n": 5,
+  "group": "correctness",
+  "data_type": "diagonal",
+  "element_range": [
+    0,
+    9
+  ],
+  "candidate_abs_bound": 407,
+  "truth": false,
+  "modifications": [
+    {
+      "row": 0,
+      "col": 0,
+      "delta": 1
+    },
+    {
+      "row": 0,
+      "col": 1,
+      "delta": -1
+    }
+  ],
+  "input_file": "correctness_n5_s20261025_diagonal_cancel.txt",
+  "sha256": "ac4f1092c67f8b6eddb030c3a8c7ab12d15a02266ac73847c92ca8b65d8c145c"
+}

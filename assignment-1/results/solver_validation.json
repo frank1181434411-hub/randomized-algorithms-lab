@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "checks": 157,
+  "executable_sha256": "d9e58f19fd5c92418cd09e26f8ebc081fe8462f10c28d411dd54cc4c02287639",
+  "coverage": [
+    "all 35 datasets with both algorithms",
+    "independent Python bigint products at n=1,2,63,64,65,129",
+    "negative elements, single errors, seed=0/1/uint64_max",
+    "fixed seed reproducibility, space paths, invalid CLI"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "case_id": "performance_n128_s101_random_none",
+  "seed": 101,
+  "n": 128,
+  "group": "performance",
+  "data_type": "random",
+  "element_range": [
+    0,
+    9
+  ],
+  "candidate_abs_bound": 10370,
+  "truth": true,
+  "modifications": [],
+  "input_file": "performance_n128_s101_random_none.txt",
+  "sha256": "c1f5bf0abae43f8ec6a99c682139ecc7d33e268d929d41ded9a00a156ae88406"
+}

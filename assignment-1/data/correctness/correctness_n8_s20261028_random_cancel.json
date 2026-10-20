@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "case_id": "correctness_n8_s20261028_random_cancel",
+  "seed": 20261028,
+  "n": 8,
+  "group": "correctness",
+  "data_type": "random",
+  "element_range": [
+    0,
+    9
+  ],
+  "candidate_abs_bound": 650,
+  "truth": false,
+  "modifications": [
+    {
+      "row": 0,
+      "col": 0,
+      "delta": 1
+    },
+    {
+      "row": 0,
+      "col": 1,
+      "delta": -1
+    }
+  ],
+  "input_file": "correctness_n8_s20261028_random_cancel.txt",
+  "sha256": "54b18af16eb1fbdc55f52bf24abc822b981cd89385163048e82c32779170d23c"
+}

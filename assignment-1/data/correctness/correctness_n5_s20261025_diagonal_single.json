@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "case_id": "correctness_n5_s20261025_diagonal_single",
+  "seed": 20261025,
+  "n": 5,
+  "group": "correctness",
+  "data_type": "diagonal",
+  "element_range": [
+    0,
+    9
+  ],
+  "candidate_abs_bound": 407,
+  "truth": false,
+  "modifications": [
+    {
+      "row": 0,
+      "col": 0,
+      "delta": 1
+    }
+  ],
+  "input_file": "correctness_n5_s20261025_diagonal_single.txt",
+  "sha256": "71255b0ac146d5fe41f947eed6940f335748f9cc9133e2a00c01bdb68c7f2542"
+}

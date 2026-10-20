@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "case_id": "correctness_n8_s20261028_random_single",
+  "seed": 20261028,
+  "n": 8,
+  "group": "correctness",
+  "data_type": "random",
+  "element_range": [
+    0,
+    9
+  ],
+  "candidate_abs_bound": 650,
+  "truth": false,
+  "modifications": [
+    {
+      "row": 0,
+      "col": 0,
+      "delta": 1
+    }
+  ],
+  "input_file": "correctness_n8_s20261028_random_single.txt",
+  "sha256": "c1a332958235fdab5c8b5189a1ade1f655cb58adccca0f06648be0d0e251d450"
+}

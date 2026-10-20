@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "case_id": "probability_n16_s314159_random_single",
+  "seed": 314159,
+  "n": 16,
+  "group": "probability",
+  "data_type": "random",
+  "element_range": [
+    0,
+    9
+  ],
+  "candidate_abs_bound": 1298,
+  "truth": false,
+  "modifications": [
+    {
+      "row": 0,
+      "col": 0,
+      "delta": 1
+    }
+  ],
+  "input_file": "probability_n16_s314159_random_single.txt",
+  "sha256": "7a079f8f70e3226e93cbd4e0fe208f92d9a3266e269cd9d7ccb1dcfda9376399"
+}

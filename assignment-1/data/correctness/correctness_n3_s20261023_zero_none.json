@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "case_id": "correctness_n3_s20261023_zero_none",
+  "seed": 20261023,
+  "n": 3,
+  "group": "correctness",
+  "data_type": "zero",
+  "element_range": [
+    0,
+    9
+  ],
+  "candidate_abs_bound": 245,
+  "truth": true,
+  "modifications": [],
+  "input_file": "correctness_n3_s20261023_zero_none.txt",
+  "sha256": "afd8c3631468ba7daf783df577e8a79b60de2631fccf205b9d4629671c337533"
+}

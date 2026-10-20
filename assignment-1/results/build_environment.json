@@ -1,0 +1,19 @@
+{
+  "command": [
+    "g++",
+    "-std=c++17",
+    "-O2",
+    "-Wall",
+    "-Wextra",
+    "D:\\CPP\\random\\tools\\reference.cpp",
+    "-o",
+    "D:\\CPP\\random\\build\\reference.exe"
+  ],
+  "compiler": "g++ (Rev5, Built by MSYS2 project) 16.1.0\nCopyright (C) 2026 Free Software Foundation, Inc.\nThis is free software; see the source for copying conditions.  There is NO\nwarranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.\n\n",
+  "os": "Windows-11-10.0.26100-SP0",
+  "machine": "AMD64",
+  "processor": "Intel64 Family 6 Model 190 Stepping 0, GenuineIntel",
+  "python": "3.14.6 (main, Jun 11 2026, 17:35:11)  [MINGW GCC UCRT 16.1.0 64 bit (AMD64)]",
+  "timing_source": "future solver: std::chrono::steady_clock",
+  "scope": "reference infrastructure only; solver build provenance must be supplied separately"
+}

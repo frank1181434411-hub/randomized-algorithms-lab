@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "case_id": "correctness_n3_s20261023_zero_single",
+  "seed": 20261023,
+  "n": 3,
+  "group": "correctness",
+  "data_type": "zero",
+  "element_range": [
+    0,
+    9
+  ],
+  "candidate_abs_bound": 245,
+  "truth": false,
+  "modifications": [
+    {
+      "row": 0,
+      "col": 0,
+      "delta": 1
+    }
+  ],
+  "input_file": "correctness_n3_s20261023_zero_single.txt",
+  "sha256": "e69568aff0ae07d25caaf23101b7dbbbfa8c58cdc318ac12cc27e19e03a9c976"
+}

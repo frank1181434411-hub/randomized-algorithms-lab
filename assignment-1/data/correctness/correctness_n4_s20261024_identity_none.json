@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "case_id": "correctness_n4_s20261024_identity_none",
+  "seed": 20261024,
+  "n": 4,
+  "group": "correctness",
+  "data_type": "identity",
+  "element_range": [
+    0,
+    9
+  ],
+  "candidate_abs_bound": 326,
+  "truth": true,
+  "modifications": [],
+  "input_file": "correctness_n4_s20261024_identity_none.txt",
+  "sha256": "eef8cf6a071fcb4540d0f2638fbf1ec2583c193439934029e080d4cf110d9e97"
+}

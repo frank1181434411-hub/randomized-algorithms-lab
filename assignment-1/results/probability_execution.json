@@ -1,0 +1,7 @@
+{
+  "workers": 8,
+  "trials_per_k": 10000,
+  "master_seed": 271828,
+  "scope": "Independent solver processes; no probability-call timings used as performance measurements",
+  "elapsed_seconds": 343.0
+}

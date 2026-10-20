@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "case_id": "correctness_n1_s20261021_random_none",
+  "seed": 20261021,
+  "n": 1,
+  "group": "correctness",
+  "data_type": "random",
+  "element_range": [
+    0,
+    9
+  ],
+  "candidate_abs_bound": 83,
+  "truth": true,
+  "modifications": [],
+  "input_file": "correctness_n1_s20261021_random_none.txt",
+  "sha256": "30f56560c91daecddb865cca32f41ea81f011b28492e55977d05b11342aed6aa"
+}

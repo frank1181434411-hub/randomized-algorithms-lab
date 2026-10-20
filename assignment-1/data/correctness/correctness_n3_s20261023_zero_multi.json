@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "case_id": "correctness_n3_s20261023_zero_multi",
+  "seed": 20261023,
+  "n": 3,
+  "group": "correctness",
+  "data_type": "zero",
+  "element_range": [
+    0,
+    9
+  ],
+  "candidate_abs_bound": 245,
+  "truth": false,
+  "modifications": [
+    {
+      "row": 0,
+      "col": 0,
+      "delta": 1
+    },
+    {
+      "row": 2,
+      "col": 2,
+      "delta": 2
+    }
+  ],
+  "input_file": "correctness_n3_s20261023_zero_multi.txt",
+  "sha256": "d27890510651e94c8b40de6545c6fa3225103176ea1cfbf57ae01b973ea874ba"
+}
