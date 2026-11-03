@@ -1,0 +1,72 @@
+{
+  "status": "PASS",
+  "real_cli_invalid_cases": 9,
+  "path_with_spaces": true,
+  "fixed_seed_reproducibility": true,
+  "checks": [
+    {
+      "command": [
+        "D:\\CPP\\random\\assignment-2\\build\\test_median.exe"
+      ],
+      "exit_code": 0,
+      "stdout": "PASS assertions=9915 successful_attempts=2775 allowed_failed_attempts=525 branches=FAIL_BRACKET,FAIL_SIZE,RETRY_LIMIT,simultaneous_flags,clamping,duplicates,invalid\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "D:\\CPP\\random\\assignment-2\\build\\median.exe",
+        "--mode",
+        "attempt",
+        "--n",
+        "3",
+        "--dataset-seed",
+        "101",
+        "--trials",
+        "4",
+        "--warmups",
+        "0",
+        "--max-attempts",
+        "20",
+        "--master-seed",
+        "1",
+        "--schedule-seed",
+        "2",
+        "--alphas",
+        ".125,.25,.5,1,1.5",
+        "--output",
+        "D:\\CPP\\random\\assignment-2\\build\\median check with spaces u70v9fp7\\result with spaces.csv"
+      ],
+      "exit_code": 0,
+      "stdout": "PASS attempt n=3 dataset_seed=101 records=20\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "D:\\CPP\\random\\assignment-2\\build\\median.exe",
+        "--mode",
+        "attempt",
+        "--n",
+        "3",
+        "--dataset-seed",
+        "101",
+        "--trials",
+        "4",
+        "--warmups",
+        "0",
+        "--max-attempts",
+        "20",
+        "--master-seed",
+        "1",
+        "--schedule-seed",
+        "2",
+        "--alphas",
+        ".125,.25,.5,1,1.5",
+        "--output",
+        "D:\\CPP\\random\\assignment-2\\build\\median check with spaces u70v9fp7\\result with spaces.csv"
+      ],
+      "exit_code": 0,
+      "stdout": "PASS attempt n=3 dataset_seed=101 records=20\n",
+      "stderr": ""
+    }
+  ]
+}

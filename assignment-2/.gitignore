@@ -1,0 +1,6 @@
+build/
+__pycache__/
+*.pyc
+.mplconfig/
+results/quick/
+results/initial_assignment1_hashes.json

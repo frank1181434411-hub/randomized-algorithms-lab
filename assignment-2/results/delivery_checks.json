@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "assignment1_unchanged": true,
+  "assignment1_files_checked": 103,
+  "documents_and_links_checked": true,
+  "markdown_tables_and_math_checked": true,
+  "report_figures": 7,
+  "compiled_sources_match_provenance": false,
+  "current_sources_token_equivalent_to_measured_sources": true,
+  "format_only_verification": "style_checks.json"
+}

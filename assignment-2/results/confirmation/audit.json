@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "profile": "confirmation",
+  "counts": {
+    "solve": 1440
+  },
+  "require_complete": true,
+  "successful_answers_checked": true,
+  "paired_seeds_verified": true,
+  "summary_recomputed": true,
+  "raw_sha256": {
+    "solve_n1000000_d404.csv": "f49ac04332528d640247099ef8c70000f9f78290c509a10587826a71c77cf605",
+    "solve_n1000000_d505.csv": "e891d14b0fa17cd4ae0727990f7c37d1c91a25a46650a574e735e6669710d45c",
+    "solve_n1000000_d606.csv": "769fb5f63c12fc8c22a6fa7631090f7d1d45fe8184e5ca52c8e44e42602f7ce4",
+    "solve_n100000_d404.csv": "efb8308534d8536bd7ae5b827b3d797d5875875d9c668eb637d93a2f5e0ce42c",
+    "solve_n100000_d505.csv": "f1960ccf672ecf170dd41eaa61f781c468c86366bc6cf60a5ac5f1b8d6db1067",
+    "solve_n100000_d606.csv": "8c5ca3fe884cdafec5f185053d8884d001d498f2b54b0f4b2abc975e6f9635c0",
+    "solve_n10000_d404.csv": "4c7c7d12be28c20d9f30a3f0126935eb806038ca1280da7e72b4dcfc0d2c9cc7",
+    "solve_n10000_d505.csv": "669818a3b35030799d8ad09a35826f68e024c1f4c2522665a58bec7edf8f9a1f",
+    "solve_n10000_d606.csv": "3a1fd1c986abc795f08541ab28a1b51694690c52df4ca3cd067cccfd3d8402e9",
+    "solve_n1000_d404.csv": "f7de09bd3386a1c0f80a9493ec88997e1b19a9c32832db60f0e0e5aea6c5ef5a",
+    "solve_n1000_d505.csv": "3e097a9a930df8a5597aaa069fa2c9a63b45cef36b89687ce935b5b87bf8fc67",
+    "solve_n1000_d606.csv": "9cb281c376d33149d729689b922a8d670b44e9b6fc74cfd9e8f2b18000744dab"
+  }
+}

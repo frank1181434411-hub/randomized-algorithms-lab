@@ -1,0 +1,37 @@
+{
+  "timestamp_utc": "2026-11-03T06:51:21.154755+00:00",
+  "commands": [
+    [
+      "g++",
+      "-std=c++17",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "src/driver.cpp",
+      "-o",
+      "D:\\CPP\\random\\assignment-2\\build\\median.exe"
+    ],
+    [
+      "g++",
+      "-std=c++17",
+      "-O2",
+      "-Wall",
+      "-Wextra",
+      "tests/test_median.cpp",
+      "-o",
+      "D:\\CPP\\random\\assignment-2\\build\\test_median.exe"
+    ]
+  ],
+  "compiler": "g++ (Rev5, Built by MSYS2 project) 16.1.0\nCopyright (C) 2026 Free Software Foundation, Inc.\nThis is free software; see the source for copying conditions.  There is NO\nwarranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.\n\n",
+  "optimization": "-O2",
+  "os": "Windows-11-10.0.26100-SP0",
+  "machine": "AMD64",
+  "processor": "Intel64 Family 6 Model 190 Stepping 0, GenuineIntel",
+  "python": "3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]",
+  "generator": "C++ mt19937_64, rejection-mapped Fisher-Yates permutation of 1..n",
+  "executable_sha256": "35cbd486de119d7a7eed3f007ef30128630615b4325065476db9351f42fd98b3",
+  "source_sha256": {
+    "src\\median.hpp": "abef83e8955a21859ac6867f21f60d9afbcacf0df08adb994a9e6e8286f7df4a",
+    "src\\driver.cpp": "2bf7d5868fe9e8d7a168d55297414071ae20b351b342f67140e1beaae15dbd64"
+  }
+}

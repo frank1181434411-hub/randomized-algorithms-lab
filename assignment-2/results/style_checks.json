@@ -1,0 +1,66 @@
+{
+  "status": "PASS",
+  "scope": "assignment-2 only",
+  "cpp": {
+    "src\\driver.cpp": {
+      "token_sequence_unchanged": true,
+      "before_lf_normalized_sha256": "2bf7d5868fe9e8d7a168d55297414071ae20b351b342f67140e1beaae15dbd64",
+      "after_lf_normalized_sha256": "c692bcda26ed07d3de7cb35a9b19ffd996d125e57d47b0b982ee60b923ba9d89",
+      "after_sha256": "0a4d5b996ef867d6864490b4e4b51e67692a5a55d24e5bc404dcb67b424c2355",
+      "measured_source_sha256": "2bf7d5868fe9e8d7a168d55297414071ae20b351b342f67140e1beaae15dbd64"
+    },
+    "src\\median.hpp": {
+      "token_sequence_unchanged": true,
+      "before_lf_normalized_sha256": "abef83e8955a21859ac6867f21f60d9afbcacf0df08adb994a9e6e8286f7df4a",
+      "after_lf_normalized_sha256": "933fdba9719b8b971f0bfb4878b61761527e48b56815eca9fa90af1575e495e9",
+      "after_sha256": "12d10a934e29012f442292f826b1e3af33992077b133b7b7a721a136e12bf4d0",
+      "measured_source_sha256": "abef83e8955a21859ac6867f21f60d9afbcacf0df08adb994a9e6e8286f7df4a"
+    },
+    "tests\\test_median.cpp": {
+      "token_sequence_unchanged": true,
+      "before_lf_normalized_sha256": "a3d6c14a11b9fa118010f8d7076885899735b959587bd23c285099f16c3f554d",
+      "after_lf_normalized_sha256": "28756d214ccb40ba7f70594b0d47742256ad30efe1dedd9b1851e4e56e4321e4",
+      "after_sha256": "b39cd32c271adbcf444830cebecd86b6fec2f0a1e3d748480fccf0d9e12f8cc2"
+    }
+  },
+  "python": {
+    "tools\\analyze.py": {
+      "ast_unchanged": true,
+      "no_multiline_parentheses": true,
+      "before_lf_normalized_sha256": "bef6a7e20e92d3b0da36f55956fd454a64e486013366a2322ab727cfac2bfc2c",
+      "after_lf_normalized_sha256": "34fa424480ef1402d3b654b746bbe0c78d909181b4987277aa0e0fbdf016b930",
+      "after_sha256": "8676cdbe3fd9dff1e9b6ad7d3e63fbf4e2fef9758c1e84b9135ce10db161f72d"
+    },
+    "tools\\plot.py": {
+      "ast_unchanged": true,
+      "no_multiline_parentheses": true,
+      "before_lf_normalized_sha256": "5278251961323d641b7e97834b2d88b8a52ee3b7a5ab8513724f791c4e59db62",
+      "after_lf_normalized_sha256": "31cab789219a590db9e4eaf4aea8dfe3da342af20f3662b210310220c38b7594",
+      "after_sha256": "ea80e0a09dfccd6fc708cffec1d99c79e1eed1c62f478dbf3cfe8d85b4889100"
+    },
+    "tools\\report.py": {
+      "ast_unchanged": true,
+      "no_multiline_parentheses": true,
+      "before_lf_normalized_sha256": "4bf3bdb3ab5d4096c08d493bd12d34427b566c3e34e111a3b63222619c04e3c3",
+      "after_lf_normalized_sha256": "d65e82c26091b9a61ee5d889aff4bbbb9c887e1368bc9715b3782b064eedd2cc",
+      "after_sha256": "dc788d026f0b443ad46a62ed018e6751ae7e2c128f09573e6ba4c34400905937"
+    },
+    "tools\\run.py": {
+      "ast_unchanged": true,
+      "no_multiline_parentheses": true,
+      "before_lf_normalized_sha256": "2ed7b8f0936e0cb795e257020d01ad4e145693b7c04ced256b638f6777723216",
+      "after_lf_normalized_sha256": "1d5e3b48609bf22454cb84fd62659b447f930535f1355fd7d8b7461074da7439",
+      "after_sha256": "136a527cf7b71f2efb97cb64863ac1ae481af793eacbe7f0354fbc69e42a26c1"
+    }
+  },
+  "cpp_files": 3,
+  "python_files": 4,
+  "compilation": "PASS",
+  "cpp_test_assertions": 9915,
+  "three_mode_non_time_output_equivalence": true,
+  "measured_binary_untouched": true,
+  "verification_executables": {
+    "style-median.exe": "e36718c49784f04334510b1f3482d747a1e8882e266b7cf0c286ff493d251f71",
+    "style-test.exe": "ea2e902286c8a6496e0000676f576fd8b772f70976ca3f5112acd1c751aaf2b2"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "alphas": [0.125, 0.25, 0.5, 1.0, 1.5],
+  "attempt_sizes": [1000, 10000, 100000],
+  "attempt_trials": 1000,
+  "solve_sizes": [1000, 10000, 100000, 1000000],
+  "dataset_seeds": [101, 202, 303],
+  "attempt_dataset_seed": 101,
+  "solve_trials": 30,
+  "warmups": 2,
+  "max_attempts": 100,
+  "sampling_master_seed": 2026110301,
+  "schedule_seed": 2026110302,
+  "diagnostic_n": 100000,
+  "diagnostic_trials": 20
+}

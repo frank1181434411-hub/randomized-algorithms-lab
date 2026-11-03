@@ -1,0 +1,31 @@
+{
+  "status": "PASS",
+  "profile": "formal",
+  "counts": {
+    "attempt": 15000,
+    "diagnostic": 100,
+    "solve": 2160
+  },
+  "require_complete": true,
+  "successful_answers_checked": true,
+  "paired_seeds_verified": true,
+  "summary_recomputed": true,
+  "raw_sha256": {
+    "attempt_n100000_d101.csv": "513ee1fc8252e1a508889f670408e1c60cfdacebd708c0ad2c744849ed014f0a",
+    "attempt_n10000_d101.csv": "eeda3220293014f2983647ccd34a49ad786da4973caa4d2097479de0d90482a5",
+    "attempt_n1000_d101.csv": "e30e9bc216b280dec375bbc774f380989d9dfa6b81f2f2887756b9feb1ea0bb4",
+    "diagnostic_n100000_d101.csv": "f22a3678ff1b9946f6b8c8ade4cf86a354e8084a0dfda3a3e0b42e766923e21c",
+    "solve_n1000000_d101.csv": "daefab85c32989bf11af9d01045745879c8e6090d817d9c3f4ad01ff9f61db88",
+    "solve_n1000000_d202.csv": "f583fe5945901037dfbc5789ceb429b9aa8b50e1d5a9d38710416a962cae2545",
+    "solve_n1000000_d303.csv": "c3fe9ba295bc4b2fee4b5569a7fecf8625fddbefb4182b503ad0642b3909e60d",
+    "solve_n100000_d101.csv": "655c45d47d8e47b1d2f4a3d6c31175f7c0c4f3034675facd95dbe33a8a75832a",
+    "solve_n100000_d202.csv": "05f153355bb266175a24eff7741a60db98aaa9c7620ce3b4740c7895d15797c4",
+    "solve_n100000_d303.csv": "928036a263b8ad2bf08fa2622bc8e18368fcdfb133443471fdccb1d54392b099",
+    "solve_n10000_d101.csv": "187088e582f13fe779189c6ad416009a226223368d592c64aba7219529bbef36",
+    "solve_n10000_d202.csv": "498fb709d6f80a7e76aae97a3039a605bfdf60fd22e181dd0aeb305aea18ad20",
+    "solve_n10000_d303.csv": "81cb9b20b55ee24f7b4dfb05466c7b3fe01596a47a2834afde5eb6cd9afd6695",
+    "solve_n1000_d101.csv": "223cf2d9e292e397aa7c42a594a63ca4d33127dc928557b92898ab22909fce11",
+    "solve_n1000_d202.csv": "bb99ca0a4af3f95b7fdf1fd43295a41d69c67c3f89280b2e3ee01cf2fe370dee",
+    "solve_n1000_d303.csv": "1cadbf9cd666ddbcfd90b42a44b07d0cf88daa5045400242d3997abf11bb90de"
+  }
+}
